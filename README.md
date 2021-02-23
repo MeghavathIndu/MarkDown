@@ -45,6 +45,7 @@ Normal text
        
        
        **Data**   
+       
        |Indu|VRSEC| IT |
        |----|----|----|
        |293 |workshop|github|
@@ -63,12 +64,12 @@ Normal text
             ....
             
             
-       **emoji**
+**emoji**
             
-            :plugins:
+
             
             
-            :blush:
+:blush:
         
         
        
